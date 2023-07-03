@@ -152,6 +152,7 @@ Enjoy the update!<br>
 \* Difficulty and game rules can now be changed from "Create World" screen<br>
 \* "Singleplayer" button will jump directly to "Create World" screen if there are no worlds to select<br>
 \* Temporarily removed structure settings from flat level preset strings (workaround: use import/export settings functionality)<br>
+\- Removed Herobrine<br>
 
 **GET THE RELEASE:**<br>
 
