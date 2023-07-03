@@ -42,3 +42,11 @@ Have fun with Part I!.<br>
 \* Reordered some blocks in the Building Blocks Tab in the Creative Menu<br>
 \* Reordered the Redstone Tab in the Creative Menu<br>
 \* Simple Firework Rockets with one Gunpowder can now be crafted using the recipe book<br>
+
+**GET THE RELEASE:**<br>
+
+Cross-platform server jar:<br>
+\* [Minecraft server jar](https://launcher.mojang.com/v1/objects/0a269b5f2c5b93b1712d0f5dc43b6182b9ab254e/server.jar)<br>
+
+Report bugs here:<br>
+\* [Minecraft issue tracker!](https://bugs.mojang.com/browse/MC)<br>
