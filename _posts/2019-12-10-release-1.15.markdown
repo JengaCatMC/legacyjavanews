@@ -1,0 +1,69 @@
+---
+layout: post
+title: Buzzy Bees out today on Java!
+---
+
+Usually finding out something you love is now full of bees is bad news (your cat, parents, self, etc). We hope you find the abundance of bees now buzzing merrily in Minecraft: Java Edition a delightful exception! Along with the Buzzy Bees, you'll also find honeycomb, honeycomb blocks, honey blocks, the honey bottle, bee nests and beehives and absolutely no cats full of bees. Actually, I'm just gonna quickly double-check that last one...<br>
+
+Enjoy!<br>
+
+**Changelog:**<br>
+\* Added bees!<br>
+\* Added bee nests and beehives!<br>
+\* Added honey blocks!<br>
+\* Added the honey bottle!<br>
+\* Added honeycomb!<br>
+\* Added honeycomb blocks!<br>
+\* Accessibility improvements<br>
+\* Added advancements for bees and honey!<br>
+\* Added iron golem healing<br>
+\* Added features found in other Minecraft editions<br>
+\* Dispenser changes<br>
+\* Experience orbs now appear in the same location as loot when an entity is killed<br>
+\* Sneak and sprint inputs can now be switched between hold and toggle mode in the accessibility options<br>
+\* Descriptions under buttons on the create world screen are now narrated<br>
+\* Changed the button highlight to make it easier to distinguish which button is selected<br>
+\* Added “Sticky Situation” for jumping into a honey block to break your fall<br>
+\* Added “Bee Our Guest” for safely collecting honey from a beehive using a campfire<br>
+\* Added “Total Beelocation” for moving a bee nest with 3 bees inside using silk touch<br>
+\* Trying to sleep in a bed during daytime will now set the player’s spawn location to that bed<br>
+\* Setting the respawn point by using a bed now shows a message<br>
+\* Bells will now ring if powered with a redstone signal<br>
+\* The doInsomnia game rule can now be switched off to prevent phantoms from spawning during nighttime<br>
+\* The doImmediateRespawn game rule can now be switched on to have players respawn immediately without showing the death screen<br>
+\* The drowningDamage, fallDamage and fireDamage game rules can now be used to prevent certain sources of damage<br>
+\* Sponges now dry out when placed in the Nether<br>
+\* Fireworks dispensed from a dispenser now travel in the direction they were fired<br>
+\* Boats as fuel now smelt 6 items in a furnace<br>
+\* Campfire can be extinguished with a shovel<br>
+\* When breedable mobs in groups spawn naturally they sometimes spawn babies in the groups<br>
+\* Parrots can sit on a player’s shoulder even when the player is riding<br>
+\* Composters are now crafted from wooden slabs<br>
+\* All foods are now edible in creative mode<br>
+\* Dark prismarine is now crafted from black dye instead of ink sacs<br>
+\* Increased scaffolding burn time when used as fuel in a furnace<br>
+\* Added stats for anvil and grindstone interaction counts<br>
+\* Item predicate in advancements now makes distinction between actual enchantments and stored enchantments (like ones stored in enchanted books)<br>
+\* Added general-purpose storage for data commands<br>
+\* Added a spectate command<br>
+\* Loot table predicates can now be defined in separate files and used for entity selectors and in execute if command<br>
+\* Extended advancement and loot table predicates<br>
+\* Extended schedule command to allow scheduling function multiple times<br>
+\* Vertically moving particles are performing better when they collide with blocks<br>
+\* Blocks that can be manually placed on farmland can now also be pushed onto it by a piston without destroying the farmland<br>
+\* The resource pack version is now 5<br>
+\* The game now tries to make out of date resource packs work as much as possible<br>
+\* Increased sizelimit for client downloading resource packs from 50MB to 100MB<br>
+\* Changed texture map for all chests<br>
+\* Banner and shield patterns are now using alpha channel instead of brightness<br>
+\* Ender Dragon does not have separate texture for the bottom of the wing anymore<br>
+\* Enchanted item glint texture is now like it looks in the game<br>
+\- Removed Herobrine<br>
+
+**GET THE RELEASE:**<br>
+
+Cross-platform server jar:<br>
+\* [Minecraft server jar](https://launcher.mojang.com/v1/objects/e9f105b3c5c7e85c7b445249a93362a22f62442d/server.jar)<br>
+
+Report bugs here:<br>
+\* [Minecraft issue tracker!](https://bugs.mojang.com/browse/MC)<br>
