@@ -5,4 +5,4 @@
 layout: home
 title: OLauncher Homepage
 ---
-# yes
+# Please go to https://jengacatmc.github.io/legacyjavanews/news/
