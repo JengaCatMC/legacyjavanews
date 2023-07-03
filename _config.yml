@@ -28,7 +28,7 @@ plugins:
   - jekyll-paginate
 
 paginate: 10
-paginate_path: "/jegacyjavanews/news/page/:num"
+paginate_path: "/news/page/:num"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
