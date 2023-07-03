@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-baseurl: "/news" # the subpath of your site, e.g. /blog
-url: "https://jengacatmc.github.io/legacyjavanews" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "/news" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 
 # Build settings
@@ -28,7 +28,7 @@ plugins:
   - jekyll-paginate
 
 paginate: 10
-paginate_path: "/legacyjavanews/news/page/:num"
+paginate_path: "/jegacyjavanews/news/page/:num"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
