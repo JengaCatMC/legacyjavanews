@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nether Update out today on Java!
+title: Caves & Cliffs Part I out today on Java!
 ---
 
 It’s here. The Cave Update, with a side of cliffs. That’s right, The Caves & Cliffs Update: Part I is launching today!<br>
