@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nether Updatse out today on Java!
+title: Nether Update out today on Java!
 ---
 
 One does not simply walk into the Nether, but it seems that's what everyone is about to do anyway...<br>
